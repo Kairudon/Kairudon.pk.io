@@ -1,0 +1,2 @@
+# Kairudon.pk.io
+# PKゲームです。
